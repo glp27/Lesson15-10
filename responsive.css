@@ -35,6 +35,10 @@
     background-position-y: center;
   }
 
+.snippet__thumbnail {
+  display:none;
+}
+
   .header__logo {
     height: 48px;
     margin-right: 0.5em;
